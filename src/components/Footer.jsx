@@ -6,7 +6,8 @@ const Footer = (props) => {
     return (
         <>
         <footer>{desc}
-        <Button variant="primary">COWABUNGA</Button>  
+        <br />
+        <Button variant="primary">COWABUNGA</Button>
         </footer>
 
         </>
