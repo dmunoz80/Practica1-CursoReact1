@@ -1,12 +1,12 @@
 import React from 'react'
-import Button from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button'
 
 const Footer = (props) => {
     const {desc} = props;
     return (
         <>
         <footer>{desc} </footer>;
-        <Button variant="dark">Primary</Button>
+        <Button variant="outline-success">COWABUNGA</Button>
         </>
     );
 };
