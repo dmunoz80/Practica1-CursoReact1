@@ -5,8 +5,10 @@ const Footer = (props) => {
     const {desc} = props;
     return (
         <>
-        <footer>{desc} </footer>;
-        <Button variant="outline-success">COWABUNGA</Button>
+        <footer>{desc}
+        <Button variant="primary">COWABUNGA</Button>  
+        </footer>
+
         </>
     );
 };
