@@ -21,7 +21,7 @@ function App() {
     photo={img1}> 
     </Card>
     
-    <Footer title= 'Serie animada que se estrenó en 1987'></Footer>
+    <Footer desc= 'Serie animada que se estrenó en 1987'></Footer>
   </div>
   
   );
