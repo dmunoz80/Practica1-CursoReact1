@@ -47,7 +47,7 @@ function App() {
     </div>
 
     
-    <Footer desc= 'Serie animada que se estrenó en 1987'></Footer>
+    <Footer desc= 'Serie animada que se estrenó en 1987, Las Tortugas Ninja (título original: Teenage Mutant Ninja Turtles, también abreviado TMNT, traducido como Las Tortugas Ninja Mutantes Adolescentes) son los protagonistas de la franquicia homónima, un multiverso ficticio de cuatro hermanos tortugas antropomorfos que residen en las alcantarillas de Manhattan y combaten el crimen en esa ciudad.'></Footer>
   </div>
   
   );
